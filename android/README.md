@@ -1,4 +1,4 @@
 android
 ===========
 
-an android app for controling computer.
+an android app for controling computer. 
